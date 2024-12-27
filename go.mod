@@ -1,4 +1,4 @@
-module github.github.com/kode-magic/rapidid
+module github.com/kode-magic/rapidid
 
 go 1.22
 

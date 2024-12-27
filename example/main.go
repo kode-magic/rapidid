@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.github.com/kode-magic/rapidid"
+	"github.com/kode-magic/rapidid"
 	"sort"
 )
 
